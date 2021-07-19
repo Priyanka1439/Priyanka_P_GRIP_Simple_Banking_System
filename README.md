@@ -33,6 +33,12 @@ This project is developed using PHP programming language and MYSQL is used for d
 
 • Mysql
 
+• HTML
+
+• CSS
+
+• JavaScript
+
 # Note:
 Admin: admin_login.php
 
