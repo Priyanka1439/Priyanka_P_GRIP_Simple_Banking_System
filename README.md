@@ -1,1 +1,37 @@
 # Priyanka_P_GRIP_Simple_Banking_System
+Hello!
+
+This is a Project on Online Banking System in PHP.
+
+The Online Banking System is an application for maintaining a person's account in a bank.
+
+In this project I have tried to show the working of a banking account system and cover the basic functionality of a Online Banking System.
+
+The user is able to transfer money to the other users.
+
+The admin can add or remove a users.
+
+SOFTWARE REQUIREMENTS:
+
+• Operating system : Windows 10.
+
+• Front End : PHP
+
+• Back end: MySQL
+
+• Database : MYSQL (Install XAMPP)
+
+• Server: XAMPP
+
+Technologies used:
+
+• PHP
+
+• Mysql
+
+# Note:
+Admin: admin_login.php
+
+username: admin
+
+password: password123
