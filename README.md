@@ -13,6 +13,8 @@ The admin can add or remove a users.
 
 This project is developed using PHP programming language and MYSQL is used for database connection.
 
+![grip](https://user-images.githubusercontent.com/54024083/126198359-ce89672f-1167-4f19-aff7-17dae7117ae9.JPG)
+
 # SOFTWARE REQUIREMENTS:
 
 • Operating system : Windows 10.
