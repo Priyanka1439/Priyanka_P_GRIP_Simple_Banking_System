@@ -11,7 +11,9 @@ The user is able to transfer money to the other users.
 
 The admin can add or remove a users.
 
-SOFTWARE REQUIREMENTS:
+This project is developed using PHP programming language and MYSQL is used for database connection.
+
+# SOFTWARE REQUIREMENTS:
 
 • Operating system : Windows 10.
 
