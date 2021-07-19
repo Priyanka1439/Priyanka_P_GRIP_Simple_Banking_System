@@ -25,7 +25,7 @@ This project is developed using PHP programming language and MYSQL is used for d
 
 • Server: XAMPP
 
-Technologies used:
+# Technologies used:
 
 • PHP
 
